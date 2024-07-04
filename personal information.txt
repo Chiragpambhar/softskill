@@ -1,0 +1,12 @@
+(1)  Briefly introduce yourself: name, educational background, and current status (student or professional).
+--->   Hello, My Name Is Pambhar Chirag Arvindbhai. I recently graduated with a degree in IT. I am Student.
+
+
+(2)  Mention key personality traits, such as your creativity, analytical skills, or passion for problem-solving.
+--->   I Am a Curious, Playful, Open-minded, Sensitive, Independent, Risk-taking, Intuitive, Objective, Energetic person.
+
+
+(3)  Explain your interest in technology and why you chose this career path.
+--->   Because I love building cool stuff and showing it to people. Tech is a great way to do that, you're constantly learning new stuff and it's easy to improve and share your work.
+
+
